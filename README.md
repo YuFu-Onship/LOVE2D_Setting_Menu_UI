@@ -1,9 +1,12 @@
-<img width="1135" height="668" alt="image" src="https://github.com/user-attachments/assets/2aa2ca0a-6ae5-46ae-8dfc-b0971039ec7f" />
-<img width="1134" height="667" alt="image" src="https://github.com/user-attachments/assets/ea1fd5f0-f1e7-46dc-88d1-d28186518f5c" />
+
 
 # 简述
 
 这是一个适用于LOVE2D的设置菜单的现成UI
+
+<img width="1135" height="668" alt="image" src="https://github.com/user-attachments/assets/2aa2ca0a-6ae5-46ae-8dfc-b0971039ec7f" />
+
+<img width="1134" height="667" alt="image" src="https://github.com/user-attachments/assets/ea1fd5f0-f1e7-46dc-88d1-d28186518f5c" />
 
 # 介绍
 
